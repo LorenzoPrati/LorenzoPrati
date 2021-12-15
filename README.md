@@ -1,5 +1,5 @@
 - Hi, I'm @LorenzoPrati
-- Currently learning Java, Bash, ADS
+- Currently studying computer science and engineering at University of Bologna
 
 <!---
 LorenzoPrati/LorenzoPrati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
