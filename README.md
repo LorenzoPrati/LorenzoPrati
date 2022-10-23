@@ -1,5 +1,6 @@
-- (Local modify) Hi, I'm @LorenzoPrati
-- Currently studying computer science and engineering at University of Bologna
+- Hi, I'm @LorenzoPrati
+- Studying computer science and engineering at University of Bologna
+
 
 <!---
 LorenzoPrati/LorenzoPrati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
